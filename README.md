@@ -29,3 +29,9 @@ npm install
 
 # Start the application
 npm run dev
+```
+After that, open your browser and go to http://localhost:5173 to see the app running.
+
+## 🌍 Live Demo
+You can try the live application here:
+[Ascenda Live Demo](https://ascenda-booking.vercel.app/)
